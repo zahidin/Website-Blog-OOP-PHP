@@ -4,8 +4,7 @@ $kategori = new Kategori();
 $id = Input::get('id');
 
 if(isset($_GET['id']) && preg_match("/[\W]+/", $_GET['id'])){
-  echo '<script>alert("Patched Injection By Zahidcode")</script>';
-  Redirect::to('views/adminpanel/template/404');
+  Redirect::to('views/404');
 }
 
 $jumlah_visit = $user->jumlah_data('statik_pengunjung');
