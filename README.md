@@ -1,5 +1,7 @@
 # Website-Blog-OOP-PHP
-
+ 
+ Website Application Blog With OOP PHP
+ 
 # Fitur : 
 - Manajemen User
 - Manajemen Artikel / Post
