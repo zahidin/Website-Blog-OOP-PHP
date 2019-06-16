@@ -20,4 +20,4 @@ Username = coba<br>
 Password = coba123
 
 # Screenshot
-https://drive.google.com/drive/folders/13fdy5RMxcFfHZErOId11JNX3zbNV1OZr?usp=sharing
+<a href="https://drive.google.com/drive/folders/13fdy5RMxcFfHZErOId11JNX3zbNV1OZr?usp=sharing">All ScreenShot</a>
